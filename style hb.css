@@ -1,9 +1,30 @@
 body {
-  background-color: darkgray;
-  text-align: center;
+  background: linear-gradient(90deg,  pink ,
+  purple);
+  margin:00;
+  padding:00;
+  box-sizing: border-box;
+  justify-content: center;
+  
   
 }
 
 border {
-  background-color:darkblue;
+  background-color:red;
+  border: 1px solid rgba(red, green, blue, alpha)
 }
+
+button {
+  
+height: 50px;
+width: 90px;
+
+  background:linear-gradient(180deg, blue,skyblue);
+  border-radius:20px;
+  border-color:black;
+  
+  
+  
+  
+}
+
