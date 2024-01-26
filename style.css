@@ -1,7 +1,4 @@
-*{
-    margin:0;
-    padding:0;
-    box-sizing: border-box;
+    box-sizing: border-box
 }
 
 body{
@@ -22,4 +19,10 @@ body{
 
 .download-btn:hover {
     background-color: RoyalBlue;
-}
+  }
+  
+  text {
+    background: linear-gradient(180deg, blue, yellow );
+    text-align: top;
+  
+  }
