@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(90deg,  pink ,
+  purple);
+  margin:00;
+  padding:00;
+  box-sizing: border-box;
+  justify-content: center;
+  
+  
+}
+
+border {
+  background-color:red;
+  border: 1px solid rgba(red, green, blue, alpha)
+  
+}
+  
+  
+  
+  
+
+
+
