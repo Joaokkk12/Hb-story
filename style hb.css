@@ -14,6 +14,15 @@ border {
   border: 1px solid rgba(red, green, blue, alpha)
   
 }
+
+button {
+  border-radius: 45px;
+  height: 30px;
+  width: 70px;
+  background: linear-gradient(0deg, gray ,  white);
+  border-color:gray;
+
+}
   
   
   
