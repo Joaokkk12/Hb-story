@@ -19,7 +19,7 @@ button {
 height: 50px;
 width: 90px;
 
-  background:linear-gradient(180deg, blue,skyblue);
+  background:linear-gradient:(180deg, blue,skyblue);
   border-radius:20px;
   border-color:black;
   
